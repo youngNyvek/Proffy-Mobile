@@ -1,2 +1,2 @@
 # Proffy-Mobile
- Aplicativo criado no evendo da rocketseat, Next Level Week 2
+ Aplicativo criado no evento da rocketseat, Next Level Week 2
